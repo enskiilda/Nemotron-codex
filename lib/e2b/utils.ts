@@ -33,8 +33,7 @@
 import Kernel from "@onkernel/sdk";
 import { resolution } from "./tool";
 
-const ONKERNEL_API_KEY = "sk_85dd38ea-b33f-45b5-bc33-0eed2357683a.t2lQgq3Lb6DamEGhcLiUgPa1jlx+1zD4BwAdchRHYgA";
-
+const ONKERNEL_API_KEY = "sk_ee12aa95-cf9c-4dfc-a28d-690317f6bb3b.ZD6d90S4+jjCeVyZA3LKR2DOYBLySn1TMV42hEKmfEE"
 const client = new Kernel({
   apiKey: ONKERNEL_API_KEY,
 });
